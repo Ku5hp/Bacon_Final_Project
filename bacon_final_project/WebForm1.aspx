@@ -17,7 +17,7 @@
 
 
 
-<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="WebForm1.aspx.cs" Inherits="Bacon_Final_Project.WebForm1" %>
+<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="WebForm1.aspx.cs" Inherits="bacon_final_project.WebForm1" %>
 
 <!DOCTYPE html>
 

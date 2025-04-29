@@ -24,7 +24,7 @@ using System.Web.UI;
 using System.Web.UI.WebControls;
 using bacon_final_project;
 
-namespace Bacon_Final_Project
+namespace bacon_final_project
 {
     public partial class WebForm1 : System.Web.UI.Page
     {

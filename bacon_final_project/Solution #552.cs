@@ -21,7 +21,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 
-namespace Bacon_Final_Project
+namespace bacon_final_project
 {
     public class Solution__552
     {

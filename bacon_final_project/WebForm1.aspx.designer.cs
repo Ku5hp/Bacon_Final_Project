@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Bacon_Final_Project
+namespace bacon_final_project
 {
 
 
